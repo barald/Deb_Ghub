@@ -34,7 +34,7 @@ jobs:
       - name: 'Use Python 3'
         uses: actions/setup-python@v4
         with: 
-          python-version: '3'
+          python-version: '3.10.7'
         #run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
